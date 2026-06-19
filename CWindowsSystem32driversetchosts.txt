@@ -1,0 +1,5 @@
+C:\Windows\System32\drivers\etc\hosts
+127.0.0.1 roblox.com
+127.0.0.1 www.roblox.com
+127.0.0.1 rbxcdn.com
+127.0.0.1 setup.roblox.com
